@@ -1,0 +1,5 @@
+###
+GET http://localhost:8080/user/102 HTTP/1.1
+
+###
+DELETE  http://localhost:8080/user/101 HTTP/1.1
