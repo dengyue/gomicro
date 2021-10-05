@@ -31,6 +31,5 @@ func GetUserEndpoint(userService IUserService) endpoint.Endpoint {
 			}
 		}
 		return UserResponse{Result: result}, nil
-
 	}
 }
